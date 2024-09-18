@@ -17,3 +17,24 @@ https://drive.google.com/file/d/1_J1q9sDh_uzZAmGDchvPp1SC2DyuUbm0/view?usp=shari
 https://github.com/user-attachments/assets/5abf82ad-652a-4ae8-a364-8281503cea66
 
 
+### develop
+
+#### MyApp
+
+A simple application built using **Kivy** and packaged for Android with **Buildozer**.
+
+#### About
+
+This project uses [Kivy](https://kivy.org/), an open-source Python library for developing multitouch applications, and [Buildozer](https://github.com/kivy/buildozer), a tool for creating Android packages.
+
+#### Features
+
+- Cross-platform development with Kivy
+- Packaged for Android using Buildozer
+
+#### Requirements
+
+- Python 3.x
+- Kivy
+- Buildozer
+- Pandas
