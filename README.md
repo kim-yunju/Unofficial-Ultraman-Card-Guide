@@ -6,7 +6,7 @@ https://docs.google.com/spreadsheets/d/1qNrw4YfUg2ZtQQ-S0gz_JmwzG8uGyXpmkN-Ki1XP
 * 24.10.03 데이터베이스 갱신
 
 ### 설치 가이드
-https://drive.google.com/file/d/1sksuGjw9yOH2WZ06-6n0H7wQen0y-6IU/view?usp=sharing
+https://drive.google.com/file/d/1pAXE0qlfxHBsmukODVP4T6O1Bn2JgdHq/view?usp=sharing
 
 위의 링크 속 파일을 다운로드 후 설치
 *경고 문구가 뜰 경우 무시하고 설치 클릭
