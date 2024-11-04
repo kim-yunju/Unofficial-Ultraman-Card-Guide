@@ -15,9 +15,7 @@ https://drive.google.com/file/d/1LcohoLAfvb0O7pywxAGrdC5ATjuhLLsj/view?usp=shari
 
 
 ### 앱 시연 영상
-
-
-https://github.com/user-attachments/assets/5abf82ad-652a-4ae8-a364-8281503cea66
+https://github.com/user-attachments/assets/75cfdd2b-ed34-43b9-b963-af0939f8a5e8
 
 
 ### develop
