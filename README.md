@@ -4,9 +4,11 @@
 https://docs.google.com/spreadsheets/d/1qNrw4YfUg2ZtQQ-S0gz_JmwzG8uGyXpmkN-Ki1XP3TQ/edit?usp=sharing
 * 24.09.18 정보 등록
 * 24.10.03 데이터베이스 갱신
+* 24.11.05 데이터베이스 갱신
+* 24.11.05 기능 추가 - 시리즈 코드 선택란 추가, 입력란에 숫자 입력시 자동으로 세자리 수로 인식
 
 ### 설치 가이드
-https://drive.google.com/file/d/1pAXE0qlfxHBsmukODVP4T6O1Bn2JgdHq/view?usp=sharing
+https://drive.google.com/file/d/1LcohoLAfvb0O7pywxAGrdC5ATjuhLLsj/view?usp=sharing
 
 위의 링크 속 파일을 다운로드 후 설치
 *경고 문구가 뜰 경우 무시하고 설치 클릭
